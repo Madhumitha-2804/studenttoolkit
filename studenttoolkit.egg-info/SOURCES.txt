@@ -1,0 +1,10 @@
+setup.py
+studenttoolkit/__init__.py
+studenttoolkit/assignment.py
+studenttoolkit/attendance.py
+studenttoolkit/cgpa.py
+studenttoolkit/predictor.py
+studenttoolkit.egg-info/PKG-INFO
+studenttoolkit.egg-info/SOURCES.txt
+studenttoolkit.egg-info/dependency_links.txt
+studenttoolkit.egg-info/top_level.txt
